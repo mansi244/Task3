@@ -1,4 +1,4 @@
-You can now enter city name ...
+We can now select different cities
 
 Screen Shots :
 
