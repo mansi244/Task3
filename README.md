@@ -2,6 +2,6 @@ You can now enter city name ...
 
 Screen Shots :
 
-image.png
+![alt text](image.png)
 
 
